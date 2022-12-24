@@ -5,7 +5,6 @@
 - I am a PhD Candidate in Psychological Science at the University of California, Merced
 - My research looks at perceptions and health communications surrounding electronic cigarettes
 - I've written some useful R packages and meta-analysis software
-- Looking for a job/post-doc for fall 2021, contact me if you're intrested in talking to me more about this
 - [Google Scholar Profile](https://scholar.google.com/citations?user=ah-amuQAAAAJ&hl=en)
 
 ## Software Projects
