@@ -7,6 +7,7 @@
 
 ## Software Projects
 
+- [**hrdh**](https://github.com/kylehamilton/hrdh): an R package for working with common ham radio log formats
 - [**MAJOR**](https://github.com/kylehamilton/MAJOR): Jamovi module for running a meta-analysis on the Jamovi statistical platform
 - [**MAVIS**](https://github.com/kylehamilton/MAVIS): an RShiny application and R package for running a meta-analysis in a web browser
 
