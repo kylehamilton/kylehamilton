@@ -2,11 +2,12 @@
 
 ## About Me
 
-- I've written some useful R packages and meta-analysis software
+- I've published a few papers and also have written some useful R packages and meta-analysis software
 - [Google Scholar Profile](https://scholar.google.com/citations?user=ah-amuQAAAAJ&hl=en)
 
 ## Software Projects
 
+- [**horsey**](https://github.com/kylehamilton/hrdh): an R package for analyzing and exporting data from the Lichess API
 - [**hrdh**](https://github.com/kylehamilton/hrdh): an R package for working with common ham radio log formats
 - [**MAJOR**](https://github.com/kylehamilton/MAJOR): Jamovi module for running a meta-analysis on the Jamovi statistical platform
 - [**MAVIS**](https://github.com/kylehamilton/MAVIS): an RShiny application and R package for running a meta-analysis in a web browser
@@ -14,6 +15,7 @@
 ## What I'm Doing
 - 📫 How to reach me: Twitter or email!
 - 😄 Pronouns: he/him
+- 👯 I’m looking to collaborate on just about any R project!
 - ⚡ Fun fact: I'm an avid [amateur radio (ham radio) operator](https://www.qrz.com/db/KG6BXW) and have won multiple awards
 
 <!--
